@@ -1,0 +1,12 @@
+ number = 4
+guess = input("Guess my favorite number!")
+While number != int(guess): 
+    if number < int.(guess): 
+      print("Your guess was too high! Sadness!")
+      guess = input("try again: ")
+  else number > int(guess):
+     print("Your guess was too low! dawn of saddness")
+      guess = input("try again: ")
+if number == int(guess):
+      print("You got it right! Awesome foddie")
+      print("Game Over!!! See Ya next time!")
